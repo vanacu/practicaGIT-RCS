@@ -2,5 +2,9 @@
 
 ### Mentor
 - Gonzalo Flamenci
+- Flor Pistan
+### Students
 - Leandro Medina
 - Pablo Bertini Luque
+
+
